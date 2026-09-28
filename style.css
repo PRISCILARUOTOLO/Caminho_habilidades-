@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    background-color: #189be1;
+
+    padding: 20px;
+}
+
+.conteiner{
+
+    background-color: aliceblue;
+    width: 100%;
+    max-width: 650px;
+    padding: 30px;
+    border-radius: 25px;
+
+}
